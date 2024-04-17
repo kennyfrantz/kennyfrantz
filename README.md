@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kennyfrantz/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kennyfrantz/azure-network-protocols)
 - <b>WireShark</b>
-  - [WireShark: Investigating live traffic and inspecting packet captures (PCAP)](https://github.com/kennyfrantz/WireShark)
+  - [WireShark: Investigating live traffic and inspecting packet captures (PCAP)](https://github.com/kennyfrantz/Inspect-network-traffic)
 
 <h2>🤳Connect with me:</h2>
 
