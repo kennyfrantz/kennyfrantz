@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kenny, an <a href="https://linkedin.com/in/KennyFrantz">IT Professional</a></h1>
+<h1>Hi, I'm Kenny, an <a href="https://linkedin.com/in/KennyFrantz-078a652b7">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
